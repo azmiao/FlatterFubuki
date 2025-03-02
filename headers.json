@@ -1,0 +1,17 @@
+{
+    "Accept": "*/*",
+    "Accept-Encoding": "deflate, gzip",
+    "User-Agent": "UnityPlayer/2021.3.27f1 (UnityWebRequest/1.0, libcurl/7.84.0-DEV)",
+    "Content-Type": "application/octet-stream",
+    "X-Unity-Version": "2021.3.27f1",
+    "APP-VER": "4.9.0",
+    "BATTLE-LOGIC-VERSION": "4",
+    "DEVICE": "2",
+    "DEVICE-ID": "1e4a1b03d1b6cd8a174a826f76e009f4",
+    "DEVICE-NAME": "Xiaomi MI 9",
+    "GRAPHICS-DEVICE-NAME": "Adreno (TM) 640",
+    "IP-ADDRESS": "10.0.2.15",
+    "LOCALE": "Jpn",
+    "PLATFORM-OS-VERSION": "Android OS 15 / API-35 (AQ3A.240812.002/OS2.0.105.0.VFACNXM)",
+    "RES-VER": "00420033"
+}
