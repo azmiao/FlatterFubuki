@@ -3,6 +3,8 @@
 
 # 台服PCR活动本小游戏自动对战脚本 | 仅限台服
 
+默认每小时的第0/4/8/12...分钟执行一次，只打战力比自己低的对手，慢慢刷粉配件，主要一手好玩
+
 ## 环境要求
 
 python >=3.13.1 (低版本需要自己测试，推荐使用[Miniconda](https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe)虚拟化一个版本出来)
